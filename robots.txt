@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# À COMPLÉTER : remplacer par l'adresse réelle du site
+Sitemap: https://www.votre-domaine.fr/sitemap.xml
